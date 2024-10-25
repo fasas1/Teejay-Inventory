@@ -1,0 +1,6 @@
+@TeejayInventory_HostAddress = http://localhost:5029
+
+GET {{TeejayInventory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
