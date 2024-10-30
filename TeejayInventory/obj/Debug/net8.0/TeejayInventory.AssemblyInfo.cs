@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeejayInventory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f81e04f35ed18cb23b74f1f5de634f9445194fe4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7e6ea28e1665c9dd756b77e73c7027f7cb597eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeejayInventory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeejayInventory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

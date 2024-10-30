@@ -6,7 +6,7 @@
         public int Quantity { get; set; }
         public int ProductId { get; set; }
         public DateTime TransactionDate { get; set; }
-        public string Type { get; set; } // "Inbound" or "Outbound"
+        public string TransactionType { get; set; } // "Inbound" or "Outbound"
 
     }
 }
