@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TeejayInventory.Data;
 
@@ -11,9 +12,11 @@ using TeejayInventory.Data;
 namespace TeejayInventory.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241030183007_AddNewModelToDB")]
+    partial class AddNewModelToDB
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -154,8 +157,6 @@ namespace TeejayInventory.Migrations
 
                     b.HasKey("StockId");
 
-                    b.HasIndex("ProductId");
-
                     b.HasIndex("WarehouseId");
 
                     b.ToTable("Stocks");
@@ -164,7 +165,7 @@ namespace TeejayInventory.Migrations
                         new
                         {
                             StockId = 1,
-                            LastUpdated = new DateTime(2024, 10, 31, 9, 40, 25, 842, DateTimeKind.Utc).AddTicks(9031),
+                            LastUpdated = new DateTime(2024, 10, 30, 18, 30, 6, 334, DateTimeKind.Utc).AddTicks(27),
                             ProductId = 1,
                             Quantity = 143,
                             WarehouseId = 2
@@ -243,7 +244,7 @@ namespace TeejayInventory.Migrations
                             TransactionId = 1,
                             ProductId = 4,
                             Quantity = 340,
-                            TransactionDate = new DateTime(2024, 10, 31, 9, 40, 25, 842, DateTimeKind.Utc).AddTicks(8987),
+                            TransactionDate = new DateTime(2024, 10, 30, 18, 30, 6, 333, DateTimeKind.Utc).AddTicks(9973),
                             TransactionType = "Purchase"
                         },
                         new
@@ -251,7 +252,7 @@ namespace TeejayInventory.Migrations
                             TransactionId = 2,
                             ProductId = 2,
                             Quantity = 70,
-                            TransactionDate = new DateTime(2024, 10, 31, 9, 40, 25, 842, DateTimeKind.Utc).AddTicks(8991),
+                            TransactionDate = new DateTime(2024, 10, 30, 18, 30, 6, 333, DateTimeKind.Utc).AddTicks(9977),
                             TransactionType = "Sale"
                         });
                 });
@@ -292,21 +293,11 @@ namespace TeejayInventory.Migrations
 
             modelBuilder.Entity("TeejayInventory.Models.Stock", b =>
                 {
-                    b.HasOne("TeejayInventory.Models.Product", "Product")
-                        .WithMany()
-                        .HasForeignKey("ProductId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("TeejayInventory.Models.Warehouse", "Warehouse")
+                    b.HasOne("TeejayInventory.Models.Warehouse", null)
                         .WithMany("Stocks")
                         .HasForeignKey("WarehouseId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Product");
-
-                    b.Navigation("Warehouse");
                 });
 
             modelBuilder.Entity("TeejayInventory.Models.Warehouse", b =>

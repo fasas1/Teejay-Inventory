@@ -142,3 +142,7 @@ C:\Users\HomePC\source\repos\TeejayInventory\TeejayInventory\obj\Debug\net8.0\re
 C:\Users\HomePC\source\repos\TeejayInventory\TeejayInventory\obj\Debug\net8.0\TeejayInventory.pdb
 C:\Users\HomePC\source\repos\TeejayInventory\TeejayInventory\obj\Debug\net8.0\TeejayInventory.genruntimeconfig.cache
 C:\Users\HomePC\source\repos\TeejayInventory\TeejayInventory\obj\Debug\net8.0\ref\TeejayInventory.dll
+C:\Users\HomePC\source\repos\TeejayInventory\TeejayInventory\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HomePC\source\repos\TeejayInventory\TeejayInventory\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\HomePC\source\repos\TeejayInventory\TeejayInventory\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HomePC\source\repos\TeejayInventory\TeejayInventory\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

@@ -3,99 +3,128 @@
   "WorkspaceRootPath": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HomePC\\source\\repos\\Happy_Health\\Repository\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\teejayinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\teejayinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Migrations\\20241031094026_NewStockModelToDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TeejayInventory\\Migrations\\20241031094026_NewStockModelToDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\warehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\warehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\migrations\\20241027143716_dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\migrations\\20241027143716_dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\repository\\warehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\repository\\warehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\interface\\iwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\interface\\iwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\interface\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\interface\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\updatestockdto..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\updatestockdto..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\createstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\createstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\createwarehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\createwarehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\dto\\updatewarehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\dto\\updatewarehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Migrations\\20241030183007_AddNewModelToDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TeejayInventory\\Migrations\\20241030183007_AddNewModelToDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|c:\\users\\homepc\\source\\repos\\teejayinventory\\teejayinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21417395-BDAC-4C62-9579-51896BF9486D}|TeejayInventory\\TeejayInventory.csproj|solutionrelative:teejayinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -105,8 +134,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeejayInventory",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\TeejayInventory.csproj",
+              "RelativeDocumentMoniker": "TeejayInventory\\TeejayInventory.csproj",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\TeejayInventory.csproj*",
+              "RelativeToolTip": "TeejayInventory\\TeejayInventory.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T10:00:39.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241031094026_NewStockModelToDB.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Migrations\\20241031094026_NewStockModelToDB.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Migrations\\20241031094026_NewStockModelToDB.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Migrations\\20241031094026_NewStockModelToDB.cs",
+              "RelativeToolTip": "TeejayInventory\\Migrations\\20241031094026_NewStockModelToDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:40:27.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Controllers\\StockController.cs",
+              "RelativeToolTip": "TeejayInventory\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:44:31.402Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -121,294 +189,367 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Controllers\\ProductController.cs*",
-              "RelativeToolTip": "TeejayInventory\\Controllers\\ProductController.cs*",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAAAKcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:40:44.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "TeejayInventory\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEUAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T14:52:36.846Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "TeejayInventory\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Properties\\launchSettings.json",
-              "RelativeToolTip": "TeejayInventory\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAgwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-29T14:43:59.769Z",
+              "Title": "StockDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\StockDto.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\StockDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\StockDto.cs",
+              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\StockDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:59:11.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\ProductDto.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\ProductDto.cs",
-              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\ProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:22:41.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\CreateProductDto.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\CreateProductDto.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\CreateProductDto.cs",
-              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\CreateProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:23:46.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MappingConfig.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\MappingConfig.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\MappingConfig.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\MappingConfig.cs",
-              "RelativeToolTip": "TeejayInventory\\MappingConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:37:50.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "TeejayInventory\\Repository\\Repository.cs",
               "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Repository\\Repository.cs",
               "RelativeToolTip": "TeejayInventory\\Repository\\Repository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAANAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T10:02:42.508Z",
+              "WhenOpened": "2024-10-30T18:15:52.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Product.cs",
-              "RelativeToolTip": "TeejayInventory\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:07:46.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Program.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Program.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Program.cs",
-              "RelativeToolTip": "TeejayInventory\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:02:03.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\UpdateProductDto.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\UpdateProductDto.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\UpdateProductDto.cs",
-              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\UpdateProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:25:14.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "TeejayInventory\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:17:25.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Interface\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Interface\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Interface\\IProductRepository.cs",
-              "RelativeToolTip": "TeejayInventory\\Interface\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:42:55.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "TeejayInventory\\Repository\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:48:29.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Happy_Health\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "..\\Happy_Health\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Happy_Health\\Repository\\Repository.cs",
-              "RelativeToolTip": "..\\Happy_Health\\Repository\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T16:32:57.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Interface\\IRepository.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Interface\\IRepository.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Interface\\IRepository.cs",
-              "RelativeToolTip": "TeejayInventory\\Interface\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T12:27:56.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "APIResponse.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\APIResponse.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Models\\APIResponse.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\APIResponse.cs",
-              "RelativeToolTip": "TeejayInventory\\Models\\APIResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:18:23.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TeejayInventory.csproj",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\TeejayInventory.csproj",
-              "RelativeDocumentMoniker": "TeejayInventory\\TeejayInventory.csproj",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\TeejayInventory.csproj",
-              "RelativeToolTip": "TeejayInventory\\TeejayInventory.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-25T14:49:41.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20241027143716_DataSeeding.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Migrations\\20241027143716_DataSeeding.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Migrations\\20241027143716_DataSeeding.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Migrations\\20241027143716_DataSeeding.cs",
-              "RelativeToolTip": "TeejayInventory\\Migrations\\20241027143716_DataSeeding.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T14:37:17.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Transaction.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Transaction.cs",
-              "RelativeToolTip": "TeejayInventory\\Models\\Transaction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:26:04.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 4,
               "Title": "Stock.cs",
               "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Stock.cs",
               "RelativeDocumentMoniker": "TeejayInventory\\Models\\Stock.cs",
               "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Stock.cs",
               "RelativeToolTip": "TeejayInventory\\Models\\Stock.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:21:27.755Z"
+              "WhenOpened": "2024-10-30T19:54:21.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Program.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Program.cs*",
+              "RelativeToolTip": "TeejayInventory\\Program.cs*",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:26:32.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TeejayInventory\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:28:23.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Interface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Interface\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Interface\\IProductRepository.cs",
+              "RelativeToolTip": "TeejayInventory\\Interface\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:15:09.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WarehouseDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\WarehouseDto.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\WarehouseDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\WarehouseDto.cs",
+              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\WarehouseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:45:27.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "TeejayInventory\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:43:06.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TeejayInventory\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:49:27.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TeejayInventory\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:44:01.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\MappingConfig.cs",
+              "RelativeToolTip": "TeejayInventory\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:25:24.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WarehouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Repository\\WarehouseRepository.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Repository\\WarehouseRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Repository\\WarehouseRepository.cs",
+              "RelativeToolTip": "TeejayInventory\\Repository\\WarehouseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:23:16.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "TeejayInventory\\Repository\\StockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:27:55.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\CreateCategoryDto.cs",
+              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\CreateCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:47:37.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "IWarehouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Interface\\IWarehouseRepository.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Interface\\IWarehouseRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Interface\\IWarehouseRepository.cs",
+              "RelativeToolTip": "TeejayInventory\\Interface\\IWarehouseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:19:14.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Interface\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Interface\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Interface\\IStockRepository.cs",
+              "RelativeToolTip": "TeejayInventory\\Interface\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:26:40.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\CreateProductDto.cs",
+              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\CreateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:28:47.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\CategoryDto.cs",
+              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:46:25.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "TeejayInventory\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:44:08.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateStockDto..cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\UpdateStockDto..cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\UpdateStockDto..cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\UpdateStockDto..cs",
+              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\UpdateStockDto..cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:56:41.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\UpdateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\UpdateCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:47:46.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateStockDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\CreateStockDto.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\CreateStockDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\CreateStockDto.cs",
+              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\CreateStockDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:55:47.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateWarehouseDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\CreateWarehouseDto.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\CreateWarehouseDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\CreateWarehouseDto.cs",
+              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\CreateWarehouseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:46:57.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateWarehouseDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\UpdateWarehouseDto.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Dto\\UpdateWarehouseDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Dto\\UpdateWarehouseDto.cs",
+              "RelativeToolTip": "TeejayInventory\\Models\\Dto\\UpdateWarehouseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:47:17.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241030183007_AddNewModelToDB.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Migrations\\20241030183007_AddNewModelToDB.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Migrations\\20241030183007_AddNewModelToDB.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Migrations\\20241030183007_AddNewModelToDB.cs",
+              "RelativeToolTip": "TeejayInventory\\Migrations\\20241030183007_AddNewModelToDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:30:07.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TeejayInventory\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:24:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Product.cs",
+              "RelativeToolTip": "TeejayInventory\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:17:16.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Category.cs",
               "RelativeDocumentMoniker": "TeejayInventory\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Category.cs",
               "RelativeToolTip": "TeejayInventory\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:15:34.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Supplier.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Supplier.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Supplier.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Supplier.cs",
-              "RelativeToolTip": "TeejayInventory\\Models\\Supplier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:52:20.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Warehouse.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Warehouse.cs",
-              "RelativeDocumentMoniker": "TeejayInventory\\Models\\Warehouse.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\Models\\Warehouse.cs",
-              "RelativeToolTip": "TeejayInventory\\Models\\Warehouse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:19:02.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\appsettings.json",
-              "RelativeDocumentMoniker": "TeejayInventory\\appsettings.json",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\TeejayInventory\\TeejayInventory\\appsettings.json",
-              "RelativeToolTip": "TeejayInventory\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-25T11:54:31.988Z"
+              "WhenOpened": "2024-10-30T17:28:33.601Z",
+              "EditorCaption": ""
             }
           ]
         }

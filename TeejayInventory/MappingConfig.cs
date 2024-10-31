@@ -16,6 +16,18 @@ namespace TeejayInventory
                 config.CreateMap<CreateProductDto, Product>().ReverseMap();
                 config.CreateMap<UpdateProductDto, Product>().ReverseMap();
 
+                config.CreateMap<CategoryDto, Category>().ReverseMap();
+                config.CreateMap<CreateCategoryDto, Category>().ReverseMap();
+                config.CreateMap<UpdateCategoryDto, Category>().ReverseMap();
+
+                config.CreateMap<WarehouseDto, Warehouse>().ReverseMap();
+                config.CreateMap<CreateWarehouseDto, Warehouse>().ReverseMap();
+                config.CreateMap<UpdateWarehouseDto, Warehouse>().ReverseMap();
+
+                config.CreateMap<StockDto, Stock>().ReverseMap();
+                config.CreateMap<CreateStockDto, Stock>().ReverseMap();
+                config.CreateMap<UpdateStockDto, Stock>().ReverseMap();
+
 
             });
             return mappingConfig;
