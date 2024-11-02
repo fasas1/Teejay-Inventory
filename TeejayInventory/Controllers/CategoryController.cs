@@ -149,7 +149,7 @@ namespace TeejayInventory.Controllers
                 {
                     _response.IsSuccess = false;
                     _response.StatusCode = HttpStatusCode.BadRequest;
-                    return NotFound(_response);
+                    return CreatedAtRoute("GetCategory", new { id = model.CategoryId }, _response);
                 }
                 await _categoryRepo.RemoveAsync(model);
                 _response.IsSuccess = true;

@@ -3,6 +3,6 @@
     public class CreateWarehouseDto
     {
         public string Location { get; set; }
-        public List<Stock> Stocks { get; set; }
+      
     }
 }

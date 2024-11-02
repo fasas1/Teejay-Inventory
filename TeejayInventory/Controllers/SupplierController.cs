@@ -10,25 +10,26 @@ namespace TeejayInventory.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class StockController : ControllerBase
+    public class SupplierController : ControllerBase
     {
-        private readonly IStockRepository _stockRepo;
+        private readonly ISupplierRepository _supplyRepo;
         private readonly IMapper _mapper;
         private readonly APIResponse _response;
 
-        public StockController(IStockRepository stockRepo, IMapper mapper)
+        public SupplierController(ISupplierRepository supplyRepo, IMapper mapper)
         {
-            _stockRepo = stockRepo;
+            _supplyRepo = supplyRepo;
             _mapper = mapper;
             _response = new APIResponse();
         }
+
         [HttpGet]
-        public async Task<ActionResult<APIResponse>> GetStocks()
+        public async Task<ActionResult<APIResponse>> GetSupplies()
         {
             try
             {
-                var stockLists = await _stockRepo.GetAllAsync(includeProperties: "Product,Warehouse");
-                _response.Result = _mapper.Map<List<StockDto>>(stockLists);
+                var supplyLists = await _supplyRepo.GetAllAsync();
+                _response.Result = _mapper.Map<List<SupplierDto>>(supplyLists);
                 _response.StatusCode = HttpStatusCode.OK;
                 return Ok(_response);
             }
@@ -40,26 +41,26 @@ namespace TeejayInventory.Controllers
             return _response;
         }
 
-        [HttpGet("{id:int}", Name = "GetStock")]
-        public async Task<ActionResult<APIResponse>> GetCategory(int id)
+        [HttpGet("{id:int}", Name ="GetSupply")]
+        public async Task<ActionResult<APIResponse>> GetSupply(int id)
         {
             try
             {
-                if (id == 0)
-                {
-                    _response.IsSuccess = false;
-                    _response.StatusCode = HttpStatusCode.BadRequest;
+              if(id == 0)
+               {
+                  _response.IsSuccess=false;
+                 _response.StatusCode=HttpStatusCode.BadRequest;
                     return BadRequest(_response);
                 }
-                var stock = await _stockRepo.GetAsync(x => x.StockId == id, includeProperties:"Product,Warehouse");
-                if (stock == null)
+              var supply = await _supplyRepo.GetAsync(x => x.SupplierId == id); 
+                if(supply == null)
                 {
                     _response.IsSuccess = false;
                     _response.StatusCode = HttpStatusCode.BadRequest;
                     return NotFound(_response);
                 }
-
-                _response.Result = _mapper.Map<StockDto>(stock);
+                
+                _response.Result = _mapper.Map<SupplierDto>(supply);
                 _response.IsSuccess = true;
                 _response.StatusCode = HttpStatusCode.OK;
                 return Ok(_response);
@@ -73,24 +74,56 @@ namespace TeejayInventory.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<APIResponse>> CreateStock([FromBody] CreateStockDto createStockDto)
+        public async Task<ActionResult<APIResponse>> CreateSupply([FromBody] CreateSupplierDto createSupplierDto)
         {
             try
             {
-              if(createStockDto == null)
+              if(createSupplierDto == null)
                 {
-                    _response.IsSuccess = false;
-                    _response.StatusCode = HttpStatusCode.BadRequest;
+                    _response.IsSuccess=false;
+                    _response.StatusCode=HttpStatusCode.BadRequest;
                     return BadRequest(_response);
                 }
-              var model = _mapper.Map<Stock>(createStockDto);
-                await _stockRepo.CreateAsync(model);
-                await _stockRepo.SaveAsync();
+                var model =  _mapper.Map<Supplier>(createSupplierDto);
+                      await _supplyRepo.CreateAsync(model);
+                       await _supplyRepo.SaveAsync();
 
-                 _response.Result  = _mapper.Map<StockDto>(model);
+                _response.IsSuccess = true;
+                _response.Result = _mapper.Map<SupplierDto>(model);
                 _response.StatusCode = HttpStatusCode.Created;
+                return CreatedAtRoute("GetSupplier", new { id = model.SupplierId }, _response);
 
-                return CreatedAtRoute("GetStock", new { id = model.StockId }, _response);
+            }
+            catch (Exception ex)
+            {
+                _response.IsSuccess = false;
+                _response.ErrorMessages = new List<string> { ex.Message };
+            }
+            return _response;
+        }
+        [HttpPut("{id:int}", Name="UpdateSupply")]
+        public async Task<ActionResult<APIResponse>> UpdateSupply(int id, [FromBody] UpdateSupplierDto updateSupplierDto)
+        {
+            try
+            {
+              if(id == 0 || updateSupplierDto.SupplierId != id)
+                {
+                    _response.IsSuccess=false;
+                    _response.StatusCode=HttpStatusCode.BadRequest;
+                    return BadRequest(_response);
+                }
+              var supplyFromDb = await _supplyRepo.GetAsync(x => x.SupplierId == id);
+                if(supplyFromDb == null)
+                {
+                    _response.IsSuccess=false;
+                    _response.StatusCode=HttpStatusCode.BadRequest;
+                    return NotFound(_response);
+                }
+                 _mapper.Map(updateSupplierDto, supplyFromDb);
+                  await _supplyRepo.UpdateAsync(supplyFromDb);
+                _response.IsSuccess = true;
+                _response.StatusCode = HttpStatusCode.NoContent;
+                return Ok(_response);
             }
             catch (Exception ex)
             {
@@ -100,69 +133,37 @@ namespace TeejayInventory.Controllers
             return _response;
         }
 
-        [HttpPut("{id:int}")]
-        public async Task<ActionResult<APIResponse>> UpdateStock(int id, [FromBody] UpdateStockDto updateStockDto)
+        [HttpDelete]
+        public async Task <ActionResult<APIResponse>> DeleteSupply(int id)
         {
             try
             {
-                if (id == 0 || updateStockDto.StockId != id)
+                if (id == 0)
                 {
                     _response.IsSuccess = false;
                     _response.StatusCode = HttpStatusCode.BadRequest;
                     return BadRequest(_response);
                 }
-                var stockFromDb = await _stockRepo.GetAsync(x => x.StockId == id);
-                if (stockFromDb == null)
+                var model = await _supplyRepo.GetAsync(x => x.SupplierId == id);
+                if (model == null)
                 {
                     _response.IsSuccess = false;
-                    _response.StatusCode = HttpStatusCode.NotFound;
-                    return BadRequest(_response);
+                    _response.StatusCode = HttpStatusCode.BadRequest;
+                    return NotFound(_response);
                 }
-                _mapper.Map(updateStockDto, stockFromDb);
-                 await _stockRepo.UpdateAsync(stockFromDb);
+                await _supplyRepo.RemoveAsync(model);
                 _response.IsSuccess = true;
                 _response.StatusCode = HttpStatusCode.NoContent;
                 return Ok(_response);
             }
             catch (Exception ex)
             {
-
-                _response.IsSuccess = false;
-                _response.ErrorMessages = new List<string> { ex.Message };
-            }
-             return _response;
-        }
-        [HttpDelete("{id:int}")]
-        public async Task<ActionResult<APIResponse>> DeleteStock(int id)
-        {
-            try
-            {
-                if (id == 0 )
-                {
-                    _response.IsSuccess = false;
-                    _response.StatusCode = HttpStatusCode.BadRequest;
-                    return BadRequest(_response);
-                }
-                var stockFromDb = await _stockRepo.GetAsync(x => x.StockId == id);
-                if (stockFromDb == null)
-                {
-                    _response.IsSuccess = false;
-                    _response.StatusCode = HttpStatusCode.NotFound;
-                    return BadRequest(_response);
-                }
-                
-                await _stockRepo.RemoveAsync(stockFromDb);
-                _response.IsSuccess = true;
-                _response.StatusCode = HttpStatusCode.NoContent;
-                return Ok(_response);
-            }
-            catch (Exception ex)
-            {
-
                 _response.IsSuccess = false;
                 _response.ErrorMessages = new List<string> { ex.Message };
             }
             return _response;
         }
+
+
     }
 }
